@@ -15,7 +15,7 @@ The code includes two main functions:
 
 1.  You can run this code directly in Google Colab using the link provided below.
 
-https://colab.research.google.com/drive/1qZbx4PPO7yBEd-rQ8ZGQYDbUzKrvf7jT?usp=sharing
+https://colab.research.google.com/github/Saanvi-U/Information-Network-and-Security-Lab/blob/main/monoalphabetic_cipher.ipynb
 
 ## Example
 
