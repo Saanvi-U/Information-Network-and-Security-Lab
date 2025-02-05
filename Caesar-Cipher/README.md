@@ -25,7 +25,7 @@ The function returns the decrypted plaintext.
 
 1.  Click on the following link to open the code in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saanvi-U/Information-Network-and-Security-Lab/blob/main/notebooks/example.ipynb)
+https://colab.research.google.com/github/Saanvi-U/Information-Network-and-Security-Lab/blob/main/Caesar_Cipher.ipynb
 
 2.  In the Colab notebook, you can run the code cells directly. You'll be prompted to enter the ciphertext and the shift value.
 
