@@ -27,7 +27,15 @@ The function returns the decrypted plaintext.
 
 https://colab.research.google.com/github/Saanvi-U/Information-Network-and-Security-Lab/blob/main/Caesar_Cipher.ipynb
 
-2.  In the Colab notebook, you can run the code cells directly. You'll be prompted to enter the ciphertext and the shift value.
+## Code Explanation
+
+The `decryption(ciphertext, n)` function iterates through each character of the `ciphertext`:
+
+1.  **Spaces:** If the character is a space, it's appended directly to the `plaintext`.
+2.  **Uppercase Letters:** If the character is uppercase, it's shifted back by `n` positions using the formula `chr((ord(ch) - n - 65) % 26 + 65)`.  The modulo operator (`% 26`) ensures that the letters wrap around the alphabet (e.g., shifting 'A' back by 1 results in 'Z').
+3.  **Lowercase Letters:** The same logic is applied to lowercase letters, using the appropriate ASCII offset (97 instead of 65).
+4.  **Non-alphabetic Characters:** Any other character is appended directly to the `plaintext` without modification.
+
 
 
 
