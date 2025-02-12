@@ -45,15 +45,6 @@ This repository contains implementations of classical encryption techniques, inc
   - **AES Encryption**: **O(n)**
   - **Transposition**: **O(n log n)** (sorting-based shuffling)
 
-## Repository Structure
-```
-Cipher_Codes/
-│── playfair_cipher.py   # Playfair Cipher Implementation
-│── hill_cipher.py       # Hill Cipher Implementation
-│── vigenere_cipher.py   # Vigenère Cipher Implementation
-│── hybrid_cipher.py     # Hybrid AES + Transposition Cipher
-│── README.md            # Documentation (this file)
-```
 
 ## How to Run the Code
 
