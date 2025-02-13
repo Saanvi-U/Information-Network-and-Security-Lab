@@ -62,6 +62,12 @@ pip install numpy pycryptodome
 ### Using GitHub Codespaces
 If using **GitHub Codespaces**, follow these steps:
 
+**Cipher_Codes Codespace**
+
+Use this codespace to run the files
+
+OR 
+
 1. **Open the Repository in Codespaces**
    - Navigate to your repository on GitHub
    - Click on `<> Code` → `Codespaces` → `New Codespace`
@@ -153,9 +159,4 @@ Decrypted: HELLO WORLD
 - Enhance **key management** for Hill and Playfair ciphers.
 - Extend hybrid cipher with **CBC mode encryption** for AES security.
 
-## License
-This project is open-source under the **MIT License**. You are free to modify and distribute the code with proper attribution.
-
----
-
-For any issues or contributions, feel free to submit a pull request or open an issue in the repository. 🚀
+For any issues or contributions, feel free to submit a pull request or open an issue in the repository. 
